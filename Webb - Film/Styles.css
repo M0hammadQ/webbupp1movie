@@ -1,0 +1,23 @@
+html {
+    font-size: 16px;
+}
+
+img {
+    width: 230px;
+    height: 700;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    background-color: rgb(43, 168, 163);
+}
+
+h1 {
+    font-size: 1.7rem;
+    color: black;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
